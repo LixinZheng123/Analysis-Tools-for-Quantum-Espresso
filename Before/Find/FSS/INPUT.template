@@ -1,0 +1,8 @@
+&input
+   filename     =  "prefix",
+   stepstop     =  -1,
+   cs           =  xxCSxx,
+   nsp1         =  xxNSP1xx,
+   nsp2         =  xxNSP2xx,
+/
+

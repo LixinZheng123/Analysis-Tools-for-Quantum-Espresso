@@ -1,0 +1,12 @@
+&input
+   filename     =  "prefix",
+   filegofr     =  "prefix.gxxATOM1xxxxATOM2xx",
+   atom(1)      =  xxA1xx,
+   atom(2)      =  xxA2xx,
+   nsp(1)       =  xxNSP1xx
+   nsp(2)       =  xxNSP2xx
+   stepstart    =  xxN0xx,
+   stepstop     =  xxN1xx,
+   binNum       =  622,
+/
+

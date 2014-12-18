@@ -1,0 +1,12 @@
+&input
+   filename     =  "prefix",
+   filegofr     =  "prefix.gO_wfc",
+   nsp(1)       =  xxNSP1xx
+   nsp(2)       =  xxNSP2xx
+   stepstart    =  xxN0xx,
+   stepstop     =  xxN1xx,
+   cs           =  xxCSxx,
+   hbnum        =  xxHBxx,
+   binNum       =  200,
+/
+

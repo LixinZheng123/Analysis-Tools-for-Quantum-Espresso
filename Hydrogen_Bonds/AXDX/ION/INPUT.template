@@ -1,0 +1,7 @@
+&input
+   filename     =  "prefix",
+   stepstop     =  xxN1xx,
+   cs           =  xxCSxx,
+   rHB          =  3.5,  
+/
+

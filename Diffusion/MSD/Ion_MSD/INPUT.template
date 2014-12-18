@@ -1,0 +1,8 @@
+&input
+   filename     =  "prefix",
+   stepstart    =  xxN0xx,
+   dstep	=  xxdstepxx,
+   last_dk      = xxDKxx,
+   cs           =  xxCSxx,
+/
+

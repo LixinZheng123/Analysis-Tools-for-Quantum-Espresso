@@ -1,0 +1,6 @@
+&input
+   filename     =  "prefix",
+   stepstop_trans= xxSTOPxx,
+   stepstop_trans_nr= xxSTOP2xx,
+/
+

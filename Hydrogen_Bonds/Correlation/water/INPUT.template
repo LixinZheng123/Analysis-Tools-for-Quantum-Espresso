@@ -1,0 +1,11 @@
+&input
+   filename     =  "prefix",
+   timestep     =  8.46615D-5,
+   dstep        =  xxDSTEPxx,
+   last_dk      =  xxDKxx,
+   nsp(1)       =  64,
+   nsp(2)       =  128,
+   stepstart    =  1000,
+   stepstop     =  xxSTOPxx
+/
+

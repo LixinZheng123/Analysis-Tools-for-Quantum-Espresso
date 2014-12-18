@@ -1,0 +1,47 @@
+
+
+*******************************************************************************
+Mon Sep 22 09:12:04 2014
+
+
+FIT:    data read from "PBE0_vdW_330K_water.corr" u  2:3
+        format = x:z
+	y range restricted to [0.00000 : 4.00000]
+        #datapoints = 9450
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 27.867            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.305456
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 11.8653
+rel. change during last iteration : -8.33848e-08
+
+degrees of freedom    (FIT_NDF)                        : 9448
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0354381
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00125586
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.838178         +/- 0.001321     (0.1576%)
+b               = 1.24939          +/- 0.002851     (0.2282%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.715  1.000 

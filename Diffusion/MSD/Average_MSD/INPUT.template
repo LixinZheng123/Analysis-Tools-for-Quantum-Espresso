@@ -1,0 +1,7 @@
+&input
+   filename     =  "prefix",
+   stepstart    =  xxN0xx,
+   nsp1         =  xxNSP1xx,
+   nsp2         =  xxNSP2xx,
+/
+

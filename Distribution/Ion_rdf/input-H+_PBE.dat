@@ -1,0 +1,11 @@
+&input
+   filename     =  "H+_PBE",
+   filegofr     =  "H+_PBE.gO*O",
+   atom(1)      =  "O",
+   atom(2)      =  "O",
+   stepstop     =  -1,
+   cs           =  3,
+   readstate    =  0,
+   binNum       =  200,
+/
+

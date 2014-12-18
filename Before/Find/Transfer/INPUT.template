@@ -1,0 +1,11 @@
+&input
+   filename     =  "prefix",
+   timestep     =  4.83776865D-4,
+   stepstop     =  -1,
+   r_FSS        =  3.5,
+   r_OH         =  1.24,
+   cs           =  xxCSxx,
+   nsp1         =  xxNSP1xx,
+   nsp2         =  xxNSP2xx,
+/
+

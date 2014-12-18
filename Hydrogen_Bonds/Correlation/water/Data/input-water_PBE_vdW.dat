@@ -1,0 +1,11 @@
+&input
+   filename     =  "water_PBE_vdW",
+   timestep     =  8.46615D-5,
+   dstep        =  10,
+   last_dk      =  7000,
+   nsp(1)       =  64,
+   nsp(2)       =  128,
+   stepstart    =  1000,
+   stepstop     =  8976
+/
+

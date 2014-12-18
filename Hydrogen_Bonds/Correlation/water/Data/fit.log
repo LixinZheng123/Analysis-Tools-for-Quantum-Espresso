@@ -1,0 +1,62 @@
+
+
+*******************************************************************************
+Mon Sep 22 10:52:28 2014
+
+
+FIT:    data read from "water_PBE_vdW.corr" u  2:3
+        format = x:z
+	y range restricted to [0.00000 : 4.00000]
+        #datapoints = 4145
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+*******************************************************************************
+Mon Sep 22 10:52:39 2014
+
+
+FIT:    data read from "water_PBE_vdW.corr" u  2:3
+        format = x:z
+	y range restricted to [0.00000 : 4.00000]
+        #datapoints = 4145
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 20.5904           delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 0.305215
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 4 iterations the fit converged.
+final sum of squares of residuals : 5.48939
+rel. change during last iteration : -1.96381e-06
+
+degrees of freedom    (FIT_NDF)                        : 4143
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.0364003
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.00132498
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = 0.815353         +/- 0.002234     (0.2739%)
+b               = 1.03562          +/- 0.004045     (0.3906%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.710  1.000 

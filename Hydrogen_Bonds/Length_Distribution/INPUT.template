@@ -1,0 +1,8 @@
+&input
+   filename     =  "prefix",
+   stepstart    =  xxN0xx,
+   stepstop     =  xxN1xx,
+   cs           =  xxCSxx,
+   r_OH         = 1.24,
+/
+
